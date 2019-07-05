@@ -1,6 +1,6 @@
 # MeetUp! A Dialogue & Vision Task
 
-MeetUp! is a resource for investigative _visually grounded dialogue_. In the design of the game, we took care that both visual grounding phenomena as well as dialogue phenomena are present. (Unlike some other data resources in this space, which focus more on the visual grounding side.)
+MeetUp! is a resource for investigating _visually grounded dialogue_. In the design of the game, we took care that both visual grounding phenomena as well as dialogue phenomena are present. (Unlike some other data resources in this space, which focus more on the visual grounding side.)
 
 MeetUp! is a two-player dialogue coordination game. It is played on a gameboard that can be formalised as a connected subgraph of a two-dimensional grid graph. Players are located at vertices in the graph, which we call "rooms".
 Players never see a representation of the whole gameboard, they only see their current room (as an image). They also do not see each other's location.
