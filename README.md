@@ -13,7 +13,7 @@ The players can communicate via text messages. As they do not see each other's l
 
 Here is an example of an interaction:
 
-![transcript](transcript.pdf)
+![transcript](transcript.jpg)
 
 
 How to load the data is described in [the example Jupyter Notebook](examples.ipynb).
