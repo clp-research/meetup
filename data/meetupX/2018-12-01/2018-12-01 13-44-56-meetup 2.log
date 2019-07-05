@@ -1,0 +1,4543 @@
+[
+    {
+        "timestamp": 1543671896,
+        "timestamp-iso": "2018-12-01 13:44:56",
+        "type": "join",
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        },
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        }
+    },
+    {
+        "timestamp": 1543671896,
+        "timestamp-iso": "2018-12-01 13:44:56",
+        "type": "join",
+        "user": {
+            "id": 1004,
+            "name": "indigo_comb",
+            "sid": "452e4da6f2a04ec791cb809806ed581c",
+            "token": {
+                "id": 1025,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "0fb3a3b0-7cef-45f0-808f-441ae8553ea1",
+                "time": "2018-12-01 12:31:47",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        },
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        }
+    },
+    {
+        "timestamp": 1543671896,
+        "timestamp-iso": "2018-12-01 13:44:56",
+        "type": "join",
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        },
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        }
+    },
+    {
+        "timestamp": 1543671897,
+        "timestamp-iso": "2018-12-01 13:44:57",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "new_image"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671897,
+        "timestamp-iso": "2018-12-01 13:44:57",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "n"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671897,
+        "timestamp-iso": "2018-12-01 13:44:57",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "e"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671897,
+        "timestamp-iso": "2018-12-01 13:44:57",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "w"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671897,
+        "timestamp-iso": "2018-12-01 13:44:57",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "s"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671897,
+        "timestamp-iso": "2018-12-01 13:44:57",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "look"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "listen_to",
+        "data": [
+            "done"
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/s/sewing_room/ADE_train_00016182.jpg",
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/s/sewing_room/ADE_train_00016182.jpg",
+            1003
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/e]ast",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "text",
+        "msg": "Welcome to the game, plain_resonance! You can always type the command                                        /look to see viable directions you can walk to.                                        Type /done if you think both of you are in the same room.",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "text",
+        "msg": "You have to meet in the room of type: j/jacuzzi/indoor",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/l/library/outdoor/ADE_train_00010997.jpg",
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671898,
+        "timestamp-iso": "2018-12-01 13:44:58",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/l/library/outdoor/ADE_train_00010997.jpg",
+            1004
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671899,
+        "timestamp-iso": "2018-12-01 13:44:59",
+        "type": "text",
+        "msg": "You can go: [/w]est",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671899,
+        "timestamp-iso": "2018-12-01 13:44:59",
+        "type": "text",
+        "msg": "Welcome to the game, indigo_comb! You can always type the command                                        /look to see viable directions you can walk to.                                        Type /done if you think both of you are in the same room.",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671899,
+        "timestamp-iso": "2018-12-01 13:44:59",
+        "type": "text",
+        "msg": "You have to meet in the room of type: j/jacuzzi/indoor",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671908,
+        "timestamp-iso": "2018-12-01 13:45:08",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "e",
+        "data": [],
+        "user": {
+            "id": 1004,
+            "name": "indigo_comb",
+            "sid": "452e4da6f2a04ec791cb809806ed581c",
+            "token": {
+                "id": 1025,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "0fb3a3b0-7cef-45f0-808f-441ae8553ea1",
+                "time": "2018-12-01 12:31:47",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671908,
+        "timestamp-iso": "2018-12-01 13:45:08",
+        "type": "text",
+        "msg": "Nothing happened.You can go: [/w]est",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671911,
+        "timestamp-iso": "2018-12-01 13:45:11",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "w",
+        "data": [],
+        "user": {
+            "id": 1004,
+            "name": "indigo_comb",
+            "sid": "452e4da6f2a04ec791cb809806ed581c",
+            "token": {
+                "id": 1025,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "0fb3a3b0-7cef-45f0-808f-441ae8553ea1",
+                "time": "2018-12-01 12:31:47",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671911,
+        "timestamp-iso": "2018-12-01 13:45:11",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/j/jacuzzi/indoor/ADE_train_00009936.jpg",
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671911,
+        "timestamp-iso": "2018-12-01 13:45:11",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/j/jacuzzi/indoor/ADE_train_00009936.jpg",
+            1004
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671911,
+        "timestamp-iso": "2018-12-01 13:45:11",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/e]ast",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671917,
+        "timestamp-iso": "2018-12-01 13:45:17",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "look",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671917,
+        "timestamp-iso": "2018-12-01 13:45:17",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/e]ast",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671922,
+        "timestamp-iso": "2018-12-01 13:45:22",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "s",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671922,
+        "timestamp-iso": "2018-12-01 13:45:22",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/h/home_office/ADE_train_00009317.jpg",
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671922,
+        "timestamp-iso": "2018-12-01 13:45:22",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/h/home_office/ADE_train_00009317.jpg",
+            1003
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671923,
+        "timestamp-iso": "2018-12-01 13:45:23",
+        "type": "text",
+        "msg": "You can go: [/n]orth [/e]ast",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671932,
+        "timestamp-iso": "2018-12-01 13:45:32",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "n",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671932,
+        "timestamp-iso": "2018-12-01 13:45:32",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/s/sewing_room/ADE_train_00016182.jpg",
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671932,
+        "timestamp-iso": "2018-12-01 13:45:32",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/s/sewing_room/ADE_train_00016182.jpg",
+            1003
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671932,
+        "timestamp-iso": "2018-12-01 13:45:32",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/e]ast",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671936,
+        "timestamp-iso": "2018-12-01 13:45:36",
+        "type": "text",
+        "msg": "I am at an indoor jacuzzi.  It is in-ground, with two lounge chairs to the right of it. ",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 1004,
+            "name": "indigo_comb",
+            "sid": "452e4da6f2a04ec791cb809806ed581c",
+            "token": {
+                "id": 1025,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "0fb3a3b0-7cef-45f0-808f-441ae8553ea1",
+                "time": "2018-12-01 12:31:47",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671939,
+        "timestamp-iso": "2018-12-01 13:45:39",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "e",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671939,
+        "timestamp-iso": "2018-12-01 13:45:39",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/j/jacuzzi/indoor/ADE_train_00009954.jpg",
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671939,
+        "timestamp-iso": "2018-12-01 13:45:39",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/j/jacuzzi/indoor/ADE_train_00009954.jpg",
+            1003
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671939,
+        "timestamp-iso": "2018-12-01 13:45:39",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/n]orth [/w]est",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671945,
+        "timestamp-iso": "2018-12-01 13:45:45",
+        "type": "text",
+        "msg": "i am here",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671968,
+        "timestamp-iso": "2018-12-01 13:46:08",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "look",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671969,
+        "timestamp-iso": "2018-12-01 13:46:09",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/n]orth [/w]est",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671976,
+        "timestamp-iso": "2018-12-01 13:46:16",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "n",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671976,
+        "timestamp-iso": "2018-12-01 13:46:16",
+        "type": "new_image",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "url": "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/j/jacuzzi/indoor/ADE_train_00009952.jpg",
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671976,
+        "timestamp-iso": "2018-12-01 13:46:16",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "new_image",
+        "data": [
+            "https://dsg.lili.uni-bielefeld.de:8000/ADE20K_2016_07_26/images/training/j/jacuzzi/indoor/ADE_train_00009952.jpg",
+            1003
+        ],
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671976,
+        "timestamp-iso": "2018-12-01 13:46:16",
+        "type": "text",
+        "msg": "You can go: [/s]outh [/n]orth",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671987,
+        "timestamp-iso": "2018-12-01 13:46:27",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "done",
+        "data": [],
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543671987,
+        "timestamp-iso": "2018-12-01 13:46:27",
+        "type": "text",
+        "msg": "The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672002,
+        "timestamp-iso": "2018-12-01 13:46:42",
+        "type": "text",
+        "msg": "I am also in the jacuzzi room",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672019,
+        "timestamp-iso": "2018-12-01 13:46:59",
+        "type": "command",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "command": "done",
+        "data": [],
+        "user": {
+            "id": 1004,
+            "name": "indigo_comb",
+            "sid": "452e4da6f2a04ec791cb809806ed581c",
+            "token": {
+                "id": 1025,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "0fb3a3b0-7cef-45f0-808f-441ae8553ea1",
+                "time": "2018-12-01 12:31:47",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672020,
+        "timestamp-iso": "2018-12-01 13:47:00",
+        "type": "text",
+        "msg": "You have managed to meet in a room of type:                                                        j/jacuzzi/indoor, but unfortunately                                                        not in the same one.",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672020,
+        "timestamp-iso": "2018-12-01 13:47:00",
+        "type": "text",
+        "msg": "Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672020,
+        "timestamp-iso": "2018-12-01 13:47:00",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "type": "confirmation_log",
+        "message": "1004KZ7QF9-02",
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672020,
+        "timestamp-iso": "2018-12-01 13:47:00",
+        "type": "text",
+        "msg": "Here's your token: 1004KZ7QF9",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672035,
+        "timestamp-iso": "2018-12-01 13:47:15",
+        "type": "leave",
+        "user": {
+            "id": 1004,
+            "name": "indigo_comb",
+            "sid": "452e4da6f2a04ec791cb809806ed581c",
+            "token": {
+                "id": 1025,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "0fb3a3b0-7cef-45f0-808f-441ae8553ea1",
+                "time": "2018-12-01 12:31:47",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": []
+        },
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        }
+    },
+    {
+        "timestamp": 1543672035,
+        "timestamp-iso": "2018-12-01 13:47:15",
+        "type": "text",
+        "msg": "indigo_comb has left the game.",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1003,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672042,
+        "timestamp-iso": "2018-12-01 13:47:22",
+        "type": "leave",
+        "user": {
+            "id": 1003,
+            "name": "plain_resonance",
+            "sid": "3a3ef7d528d04faba1df81cf770b5140",
+            "token": {
+                "id": 1023,
+                "task": {
+                    "id": 1,
+                    "users": 2,
+                    "name": "meetup"
+                },
+                "uuid": "060b4f29-ee1b-4cc4-a2e7-489d115c35e9",
+                "time": "2018-12-01 12:29:57",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": []
+        },
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        }
+    },
+    {
+        "timestamp": 1543672042,
+        "timestamp-iso": "2018-12-01 13:47:22",
+        "type": "text",
+        "msg": "plain_resonance has left the game.",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "receiver": 1004,
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543672076,
+        "timestamp-iso": "2018-12-01 13:47:56",
+        "type": "text",
+        "msg": "Attention: you are in the game for 3 minutes!",
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        },
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 463,
+                "name": "meetup 2",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                {
+                    "id": 462,
+                    "name": "meetup 1",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 463,
+                    "name": "meetup 2",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 1543675974,
+        "timestamp-iso": "2018-12-01 14:52:54",
+        "type": "leave",
+        "user": {
+            "id": 998,
+            "name": "Game Master",
+            "sid": "bd52f6a4e2eb41f6911aa8f0b83f6c64",
+            "token": {
+                "id": 1018,
+                "task": null,
+                "uuid": "9b69133d-735d-4a34-b3fd-ba1fc0b66fe0",
+                "time": "2018-12-01 12:27:27",
+                "room": {
+                    "id": 1,
+                    "name": "Waiting Room",
+                    "label": "Waiting Room",
+                    "layout": "waiting_room",
+                    "read_only": true,
+                    "show_users": false,
+                    "show_latency": false
+                },
+                "valid": true
+            },
+            "latest_room": {
+                "id": 481,
+                "name": "meetup 20",
+                "label": "Meetup",
+                "layout": "meetup-task",
+                "read_only": false,
+                "show_users": false,
+                "show_latency": true
+            },
+            "rooms": [
+                {
+                    "id": 464,
+                    "name": "meetup 3",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 465,
+                    "name": "meetup 4",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 466,
+                    "name": "meetup 5",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 467,
+                    "name": "meetup 6",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 468,
+                    "name": "meetup 7",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 469,
+                    "name": "meetup 8",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 470,
+                    "name": "meetup 9",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 471,
+                    "name": "meetup 10",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 472,
+                    "name": "meetup 11",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 473,
+                    "name": "meetup 12",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 474,
+                    "name": "meetup 13",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 475,
+                    "name": "meetup 14",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 476,
+                    "name": "meetup 15",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 477,
+                    "name": "meetup 16",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 478,
+                    "name": "meetup 17",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 479,
+                    "name": "meetup 18",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 480,
+                    "name": "meetup 19",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                },
+                {
+                    "id": 481,
+                    "name": "meetup 20",
+                    "label": "Meetup",
+                    "layout": "meetup-task",
+                    "read_only": false,
+                    "show_users": false,
+                    "show_latency": true
+                }
+            ]
+        },
+        "room": {
+            "id": 463,
+            "name": "meetup 2",
+            "label": "Meetup",
+            "layout": "meetup-task",
+            "read_only": false,
+            "show_users": false,
+            "show_latency": true
+        }
+    }
+]
